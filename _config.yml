@@ -43,6 +43,7 @@ defaults:
     values:
       layout: "post"
       author: "Sun Jiong"
+      categories: "jekyll update"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
